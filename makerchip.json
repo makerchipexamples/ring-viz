@@ -1,0 +1,14 @@
+ 
+{ "ring_viz": {
+    "root": ".",
+    "thumb": "makerchip/thumb.png",
+    "desc": "Ring architecture with visualization.",
+    "details": "<b>Ring architecture TL-V implementation and visualization</b>",
+    "docs": "makerchip/README.md",
+    "src": "src/ring_viz.tlv"
+    },
+    "implementations": {
+    }
+  },
+
+}
