@@ -1,5 +1,5 @@
  
-{ "ring_viz": {
+{ "ring-viz": {
     "root": ".",
     "thumb": "makerchip/thumb.png",
     "desc": "Ring architecture with visualization.",
@@ -9,6 +9,5 @@
     },
     "implementations": {
     }
-  },
+  }
 
-}
